@@ -1,0 +1,30 @@
+[
+   {
+      "text": "Светлое пиво",
+      "idName": "check-1",
+      "value": "light",
+      "type": "checkbox",
+      "name": "light"
+   },
+   {
+      "text": "Темное пиво",
+      "idName": "check-2",
+      "value": "dark",
+      "type": "checkbox",
+      "name": "dark"
+   },
+   {
+      "text": "Крафтовое пиво",
+      "idName": "check-3",
+      "value": "craft",
+      "type": "checkbox",
+      "name": "craft"
+   },
+   {
+      "text": "Безалкогольные напитки",
+      "idName": "check-4",
+      "value": "without",
+      "type": "checkbox",
+      "name": "without"
+   }
+]

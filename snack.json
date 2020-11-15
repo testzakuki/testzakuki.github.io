@@ -1,0 +1,114 @@
+[
+   {
+      "photo": "/img/pike.jpg",
+      "productName": "Щука",
+      "description": "Описание1",
+      "price": 155,
+      "type": "fish"
+   },
+   {
+      "photo": "/img/pinkSalmon.jpg",
+      "productName": "Горбуша",
+      "description": "Описание2",
+      "price": 175,
+      "type": "fish"
+   },
+   {
+      "photo": "/img/amberPepper.jpg",
+      "productName": "Янтарная с Перцем",
+      "description": "Описание3",
+      "price": 95,
+      "type": "fish"
+   },
+   {
+      "photo": "/img/PollockRagged.jpg",
+      "productName": "Минтай Рваный ",
+      "description": "Описание4",
+      "price": 120,
+      "type": "fish"
+   },
+   {
+      "photo": "/img/PollockStraw.jpg",
+      "productName": "Минтай Соломка",
+      "description": "Описание5",
+      "price": 125,
+      "type": "fish"
+   },
+   {
+      "photo": "/img/PollockStrawsPepper.jpg",
+      "productName": "Минтай Соломка с Перцем",
+      "description": "Описание6",
+      "price": 125,
+      "type": "fish"
+   },
+   {
+      "photo": "/img/CrabSquid.jpg",
+      "productName": "Кальмар со Вкусом Краба",
+      "description": "Описание7",
+      "price": 165,
+      "type": "fish"
+   },
+   {
+      "photo": "/img/SquidRings.jpg",
+      "productName": "Кольца Кальмара",
+      "description": "Описание8",
+      "price": 128,
+      "type": "fish"
+   },
+   {
+      "photo": "/img/Anchovy.jpg",
+      "productName": "Анчоус",
+      "description": "Описание9",
+      "price": 105,
+      "type": "fish"
+   },
+   {
+      "photo": "/img/YellowWhale.jpg",
+      "productName": "Желтый Полосатик",
+      "description": "Описание10",
+      "price": 145,
+      "type": "fish"
+   },
+   {
+      "photo": "/img/Pistachios.jpg",
+      "productName": "Фисташки",
+      "description": "Описание11",
+      "price": 145,
+      "type": "nuts"
+   },
+   {
+      "photo": "/img/PeanutBacon.jpg",
+      "productName": "Арахис со Вкусом Бекона",
+      "description": "Описание12",
+      "price": 40,
+      "type": "nuts"
+   },
+   {
+      "photo": "/img/SaltedPeanuts.jpg",
+      "productName": "Арахис Солёный ",
+      "description": "Описание13",
+      "price": 25,
+      "type": "nuts"
+   },
+   {
+      "photo": "/img/PeanutsAirMix.jpg",
+      "productName": "Арахис Воздушный Микс",
+      "description": "Описание14",
+      "price": 46,
+      "type": "nuts"
+   },
+   {
+      "photo": "/img/BreadChipsAssort.jpg",
+      "productName": "Хлебные Чипсы Bread Chips в Ассортименте",
+      "description": "Описание15",
+      "price": 145,
+      "type": "chips"
+   },
+   {
+      "photo": "/img/GarlicCroutons.png",
+      "productName": "Гренки с Чесноком",
+      "description": "Описание16",
+      "price": 65,
+      "type": "chips"
+   }
+]

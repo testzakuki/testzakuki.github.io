@@ -1,0 +1,156 @@
+[
+   {
+      "photo": "/img/jigul.jpg",
+      "productName": "Жигулевское",
+      "creater": "Москва-Эфес",
+      "beerType": "Светлое",
+      "beerSort": "Фильтрованное",
+      "alcoPercent": 4.8,
+      "density": 10.7,
+      "price": 109,
+      "type": "light"
+   },
+   {
+      "photo": "/img/MalzWeizen.jpg",
+      "productName": "Malz Weizen",
+      "creater": "Москва-Эфес",
+      "beerType": "Светлое",
+      "beerSort": "Пшеничное Нефильтрованное",
+      "alcoPercent": 4.5,
+      "density": 11,
+      "price": 139,
+      "type": "light"
+   },
+   {
+      "photo": "/img/VOdark.png",
+      "productName": "Василеостровское (Черное)",
+      "creater": "Василеостровская пивоварня",
+      "beerType": "Темное",
+      "beerSort": "Фильтрованное",
+      "alcoPercent": 4.2,
+      "density": 11,
+      "price": 150,
+      "type": "dark"
+   },
+   {
+      "photo": "/img/VOhome.png",
+      "productName": "Василеостровское Домашнее",
+      "creater": "Василеостровская пивоварня",
+      "beerType": "Светлое",
+      "beerSort": "Нефильтрованное",
+      "alcoPercent": 4.5,
+      "density": 12,
+      "price": 155,
+      "type": "light"
+   },
+   {
+      "photo": "/img/VOlight.png",
+      "productName": "Василеостровское",
+      "creater": "Василеостровская пивоварня",
+      "beerType": "Светлое",
+      "beerSort": "Фильтрованное",
+      "alcoPercent": 4.5,
+      "density": 12,
+      "price": 145,
+      "type": "light"
+   },
+   {
+      "photo": "/img/VOorange.png",
+      "productName": "Василеостровское Рыжее",
+      "creater": "Василеостровская пивоварня",
+      "beerType": "Светлое",
+      "beerSort": "Нефильтрованное",
+      "alcoPercent": 4,
+      "density": 11,
+      "price": 135,
+      "type": "light"
+   },
+   {
+      "photo": "/img/RIGAprem.jpg",
+      "productName": "Рижское Премиальное",
+      "creater": "Трехсосенский завод",
+      "beerType": "Светлое",
+      "beerSort": "Фильтрованное",
+      "alcoPercent": 4.9,
+      "density": 12,
+      "price": 105,
+      "type": "light"
+   },
+   {
+      "photo": "/img/GermanNefiltr.png",
+      "productName": "Немецкое",
+      "creater": "Трехсосенский завод",
+      "beerType": "Светлое",
+      "beerSort": "Нефильтрованное",
+      "alcoPercent": 5.0,
+      "density": 13,
+      "price": 120,
+      "type": "light"
+   },
+   {
+      "photo": "/img/ChekhBarnoe.png",
+      "productName": "Чешское Барное",
+      "creater": "Трехсосенский завод",
+      "beerType": "Светлое",
+      "beerSort": "Фильтрованное",
+      "alcoPercent": 4.9,
+      "density": 12,
+      "price": 140,
+      "type": "light"
+   },
+   {
+      "photo": "/img/Cherry.png",
+      "productName": "Вишня В Дубе",
+      "creater": "Трехсосенский завод",
+      "alcoPercent": 5,
+      "type": "craft"
+   },
+   {
+      "photo": "/img/Barhatnoe.jpg",
+      "productName": "Бархатное",
+      "creater": "Волжская Пивоварня",
+      "beerType": "Темное",
+      "beerSort": "Фильтрованное",
+      "alcoPercent": 4.6,
+      "density": 12,
+      "price": 160,
+      "type": "dark"
+   },
+   {
+      "photo": "/img/weissberg.png",
+      "productName": "Weiss Berg",
+      "creater": "Бочкаревский пивзавод",
+      "beerType": "Светлое",
+      "beerSort": "Пшеничное нефильтрованное",
+      "alcoPercent": 4.3,
+      "density": 12,
+      "price": 148,
+      "type": "light"
+   },
+   {
+      "photo": "/img/kvas.png",
+      "productName": "Квас",
+      "creater": "Медоварус",
+      "type": "without"
+   },
+   {
+      "photo": "/img/cidrApple.png",
+      "productName": "Сидр Яблочный",
+      "creater": "Злынковский завод",
+      "beerSort": "Полусладкий газированный",
+      "alcoPercent": 6,
+      "price": 120,
+      "type": "craft"
+   },
+   {
+      "photo": "/img/starobavarskoe.png",
+      "productName": "Старобаварское",
+      "creater": "Лакинский пивзавод",
+      "beerType": "Светлое",
+      "beerSort": "Фильтрованное",
+      "alcoPercent": 5.2,
+      "density": 13,
+      "price": 95,
+      "type": "light"
+   }  
+]

@@ -1,0 +1,23 @@
+[
+   {
+      "text": "Рыба",
+      "idName": "check-7",
+      "value": "fish",
+      "type": "checkbox",
+      "name": "fish"
+   },
+   {
+      "text": "Орехи",
+      "idName": "check-8",
+      "value": "nuts",
+      "type": "checkbox",
+      "name": "nuts"
+   },
+   {
+      "text": "Сухарики и Чипсы",
+      "idName": "check-9",
+      "value": "chips",
+      "type": "checkbox",
+      "name": "chips"
+   }
+]
