@@ -110,5 +110,12 @@
       "description": "Описание16",
       "price": 65,
       "type": "chips"
+   },
+      {
+      "photo": null,
+      "productName": "Гренки с двумя соусами",
+      "description": "Описание17",
+      "price": 80,
+      "type": "chips"
    }
 ]
